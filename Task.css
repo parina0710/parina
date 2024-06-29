@@ -1,0 +1,291 @@
+
+    .logo1_p{
+            padding-left: 45%;
+        
+    }
+    .logo{
+        max-width:194px;
+        max-height:89px; 
+    }
+    .menu_p{
+        padding-top: 40px;
+        padding-left:150px;
+    }
+    .menu2_p{
+        padding-top: 40px;
+        padding-left:70px;
+    }
+    .menu_p a{
+        padding-left: 35px;
+        text-decoration: none;
+        font-family: "Arial";
+        color: black;
+    }
+    .menu2_p a{  
+        padding-left: 35px;
+        text-decoration: none;
+        font-family: "Arial";
+        color: black;
+    }
+
+    .btn{
+        width:146px;
+        height:39px;
+        border:none;
+        background-color: #8CC63F;
+        color: white;
+     }
+     .upp-container{
+        margin-top: 15px;
+        background-color:#8CC63F;
+        height:560px;        
+
+     }
+     .upper-container1_p{
+        display: inline-block;
+        padding-left:150px;
+        font-size: 20px;
+        font-family: "Sora", sans-serif;
+        color:white
+        
+     }
+     .img_p{
+        padding-left:1068px;
+        margin-top: -300px;
+     }
+     .upper-container_p{
+        font-size: 48px;
+        padding-top:150px; 
+        padding-left:150px; 
+        font-family: "Sora", sans-serif;
+        font-weight: bold;
+        color: white;
+     }
+     .upper-btn{
+        padding-left:150px; 
+        
+     }
+     .upper-btn1{
+        width:130px;
+        height:50px;
+        margin-top: 50px;                
+     }
+     .center-container{
+        padding-top: 190px;
+        padding-left: 150px;
+        font-size: 36px;
+        margin: -45px;              
+        font-family: "Arial";
+     }
+     .btn-center{
+        width:180px;
+        height:55px;
+        border:none;
+        background-color: #8CC63F;
+        color: white;
+     }
+     .center-item{
+        display: inline-block;
+        margin-top: 50px;
+        height:501px;
+        width: 360;
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.205);
+     }
+     .center-img_p{
+        width: 360px;
+        height:304px;
+        
+     }
+     .price_p{
+        font-size: x-large;
+        font-weight: bold;
+     }
+     .circle_p{
+        /* Ellipse 1 */
+        display: inline-block;
+        box-sizing: border-box;
+        position: absolute;
+        width: 403px;
+        height: 403px;
+        left: 189px;
+        top: 1780px;
+        border: 35px solid #8CC63F;
+        border-radius: 50%;
+     }
+     .before-circle{
+        position:  absolute;
+        width: 403px;
+        height: 403px;
+        left: 800px;
+        top: 1780px;
+        font-size: 48px;
+        font-family: "Sora", sans-serif;
+     }
+     .before-circle-sub{
+        position:  absolute;
+        width: 403px;
+        height: 403px;
+        left: 800px;
+        top: 1915px;
+        font-size: 20px;
+        font-family: "Sora", sans-serif;  
+     }
+     .down-center{
+        position:  absolute;
+        top: 2400px;
+        font-size: 36px;
+        left: 40%;
+        font-family: "Sora", sans-serif;
+     }
+     .center-down-items{
+        margin-top: 900px;
+        margin-left: 100px;
+     }
+     .center-down-items1{
+        margin-top: 75px;
+        margin-left: 100px;
+     }
+     .center-item-top{
+        margin-left: 10px;
+     }
+     .bottom-letter{
+        position: absolute;
+        width: 1440px;
+        height: 391px;
+        left: 0px;
+        top: 4463px;
+        position: absolute;
+        width: 1440px;
+        height: 491px;
+        left: 0px;
+        top: 4463px;
+        background: rgba(165, 230, 80, 0.2);  
+        position: absolute;
+        width: 1440px;
+        height: 491px;
+        left: 80px;
+        top: 4463px;
+        background-image: url('assets/letter-bg.png');
+        mix-blend-mode: soft-light;      
+     }
+     .letter-text{
+         position: absolute;
+         height: 90px;
+         left: 37.28%;
+         right: 30.28%;
+         top: 4563px;
+        font-family: "Sora", sans-serif;
+         font-style: normal;
+         font-weight: 600;
+         font-size: 36px;
+         line-height: 45px;
+         text-align: center;
+         color: #172048;
+     }
+     .letteer-tb{
+        border: none;
+        margin-top: 30px;
+        margin-left: -80px;
+        width: 650px;
+        height: 62px;
+     }
+     .letter-btn{
+        margin-top: -56px;
+        margin-left: 440px;
+        width: 125px;
+        height: 52px;
+        border: none;
+        background-color: #8CC63F;
+        color:white;
+     }
+     input[type="text"]::placeholder{
+        padding-left: 50px;
+     }
+     .letter-btn2{
+        padding-top: 40px;
+     }
+     .letter-btn2 btn{
+        margin-left: 10px;
+        border: 0.5em;
+        height: 30px;
+     }
+     .circle1_p{
+        /* Ellipse 1 */
+        display: inline-block;
+        box-sizing: border-box;
+        position: absolute;
+        width: 303px;
+        height: 303px;
+        left: 260px;
+        top: 5080px;
+        border: 35px solid #8CC63F;
+        border-radius: 50%;
+     }
+     .circle1-p{
+        display: inline-block;
+        position: absolute;
+        top: 5120px;
+        font-size: 50px;
+        left: 760px;
+        font-family: Arial;
+        font-weight: 600;
+     }
+     .circle1_p1{
+        display: inline-block;
+        position: absolute;
+        top: 5250px;
+        font-size: 20px;
+        left: 760px;
+        font-family: Arial;
+     }
+     .circle1_p2{
+        display: inline-block;
+        position: absolute;
+        top: 5350px;
+        
+        left: 760px;
+        font-family: Arial;
+     }
+     .circle1-btn_p{
+        width: 160px;
+        height: 44px;
+        font-family: Arial;
+        border:none;
+        background-color: #8CC63F;
+        color: white;
+     }
+     .yt{
+        display: inline-block;
+        position: absolute;
+        top:5550px;
+        font-family: Arial;
+        left:640px;
+        font-size: 36px;
+     }
+     .yt-photo{
+        display: inline-block;
+        position: absolute;
+        top:5650px;
+        left:240px;
+     }
+     .reviews{
+        display: inline-block;
+        position: absolute;
+        top:6100px;
+        font-family: Arial;
+        left:600px;
+        font-size: 36px;
+     }
+     .reviews-img{
+        display: inline-block;
+        position: absolute;
+        top:6150px;
+        left:200px;
+     }
+     .footer{
+        display: inline-block;
+        position: absolute;
+        top:6500px;
+        left:50px;
+     }
+       
